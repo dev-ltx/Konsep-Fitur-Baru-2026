@@ -4,3 +4,4 @@
 3. Chat HR AI.
 4. Report Purchase
 5. Report AGV dan Stock
+6. Report Stock
