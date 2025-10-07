@@ -3,3 +3,5 @@
 2. Ai Rekomendasi Item Purchase
 3. Chat HR AI.
 4. Report Purchase
+5. Report AGV
+7. Report Stock
